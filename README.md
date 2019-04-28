@@ -10,5 +10,5 @@
 9、桥接模式----bridging
 10、单例模式----single
 11、模板方法模式----template
-
+测试 by Liuze
 感谢阅读......
